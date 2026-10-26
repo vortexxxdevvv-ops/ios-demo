@@ -1,0 +1,20 @@
+{
+  "project": "ios-demo",
+  "platform": "ios",
+  "github": {
+    "owner": "vortexxxdevvv-ops",
+    "repo": "ios-demo"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "bundleId": "com.example.iosdemo"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
