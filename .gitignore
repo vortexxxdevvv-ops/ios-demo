@@ -1,0 +1,24 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# builder output (keep the IPA out of the snapshot)
+/dist/
+
+# Signing material - never commit
+*.p12
+*.key
+*.mobileprovision
+*.cer
+*.csr
+ios-signing*.key
+
+# macOS
+.DS_Store
